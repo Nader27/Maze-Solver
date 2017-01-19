@@ -1,0 +1,14 @@
+D:\College\Projects\Visual Studio 2015\Projects\Parallel Processing\Parallel Processing\bin\Debug\Parallel Processing.exe.config
+D:\College\Projects\Visual Studio 2015\Projects\Parallel Processing\Parallel Processing\bin\Debug\Parallel Processing.exe
+D:\College\Projects\Visual Studio 2015\Projects\Parallel Processing\Parallel Processing\bin\Debug\Parallel Processing.pdb
+D:\College\Projects\Visual Studio 2015\Projects\Parallel Processing\Parallel Processing\obj\Debug\Parallel Processing.csprojResolveAssemblyReference.cache
+D:\College\Projects\Visual Studio 2015\Projects\Parallel Processing\Parallel Processing\obj\Debug\Parallel_Processing.Form1.resources
+D:\College\Projects\Visual Studio 2015\Projects\Parallel Processing\Parallel Processing\obj\Debug\Parallel_Processing.Properties.Resources.resources
+D:\College\Projects\Visual Studio 2015\Projects\Parallel Processing\Parallel Processing\obj\Debug\Parallel Processing.csproj.GenerateResource.Cache
+D:\College\Projects\Visual Studio 2015\Projects\Parallel Processing\Parallel Processing\obj\Debug\Parallel Processing.exe
+D:\College\Projects\Visual Studio 2015\Projects\Parallel Processing\Parallel Processing\obj\Debug\Parallel Processing.pdb
+D:\College\Projects\Visual Studio 2015\Projects\Parallel Processing\Parallel Processing\obj\Debug\Parallel_Processing.StartForm.resources
+D:\College\Projects\Visual Studio 2015\Projects\Parallel Processing\Parallel Processing\obj\Debug\Parallel_Processing.ResultForm.resources
+C:\Users\nader\Downloads\Compressed\Parallel-Processing\Parallel Processing\bin\Debug\Parallel Processing.exe.config
+C:\Users\nader\Downloads\Compressed\Parallel-Processing\Parallel Processing\obj\Debug\Parallel Processing.exe
+C:\Users\nader\Downloads\Compressed\Parallel-Processing\Parallel Processing\obj\Debug\Parallel Processing.pdb
