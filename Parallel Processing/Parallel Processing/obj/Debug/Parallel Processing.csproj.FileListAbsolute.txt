@@ -9,3 +9,15 @@ D:\College\Projects\Visual Studio 2015\Projects\Parallel Processing\Parallel Pro
 D:\College\Projects\Visual Studio 2015\Projects\Parallel Processing\Parallel Processing\obj\Debug\Parallel Processing.pdb
 D:\College\Projects\Visual Studio 2015\Projects\Parallel Processing\Parallel Processing\obj\Debug\Parallel_Processing.StartForm.resources
 D:\College\Projects\Visual Studio 2015\Projects\Parallel Processing\Parallel Processing\obj\Debug\Parallel_Processing.ResultForm.resources
+G:\Projects\Maze-Solver\Parallel Processing\Parallel Processing\bin\Debug\Parallel Processing.exe.config
+G:\Projects\Maze-Solver\Parallel Processing\Parallel Processing\bin\Debug\Parallel Processing.exe
+G:\Projects\Maze-Solver\Parallel Processing\Parallel Processing\bin\Debug\Parallel Processing.pdb
+G:\Projects\Maze-Solver\Parallel Processing\Parallel Processing\obj\Debug\Parallel Processing.csprojResolveAssemblyReference.cache
+G:\Projects\Maze-Solver\Parallel Processing\Parallel Processing\obj\Debug\Parallel_Processing.Form1.resources
+G:\Projects\Maze-Solver\Parallel Processing\Parallel Processing\obj\Debug\Parallel_Processing.Properties.Resources.resources
+G:\Projects\Maze-Solver\Parallel Processing\Parallel Processing\obj\Debug\Parallel_Processing.ResultForm.resources
+G:\Projects\Maze-Solver\Parallel Processing\Parallel Processing\obj\Debug\Parallel_Processing.StartForm.resources
+G:\Projects\Maze-Solver\Parallel Processing\Parallel Processing\obj\Debug\Parallel Processing.csproj.GenerateResource.Cache
+G:\Projects\Maze-Solver\Parallel Processing\Parallel Processing\obj\Debug\Parallel Processing.csproj.CoreCompileInputs.cache
+G:\Projects\Maze-Solver\Parallel Processing\Parallel Processing\obj\Debug\Parallel Processing.exe
+G:\Projects\Maze-Solver\Parallel Processing\Parallel Processing\obj\Debug\Parallel Processing.pdb
